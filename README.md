@@ -23,5 +23,15 @@
 | 19 | Queries Quality and Percentage | ✅ Accepted |
 | 20 | Monthly Transactions I | ✅ Accepted |
 | 21 | Immediate Food Delivery II | ✅ Accepted |
+| 22 | Game Play Analysis IV | ✅ Accepted |
+| 23 | Number of Unique Subjects Taught by Each Teacher | ✅ Accepted |
+| 24 | User Activity for the Past 30 Days I | ✅ Accepted |
+| 25 | Product Sales Analysis III | ✅ Accepted |
+| 26 | Classes With at Least 5 Students | ✅ Accepted |
+| 27 | Find Followers Count | ✅ Accepted |
+| 28 | Biggest Single Number | ✅ Accepted |
+| 29 | Customers Who Bought All Products | ✅ Accepted |
+| 30 | The Number of Employees Which Report to Each Employee | ✅ Accepted |
+| 31 | Primary Department for Each Employee | ✅ Accepted |
 
-**Total Solved: 21 / 50**
+**Total Solved: 31 / 50**
