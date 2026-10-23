@@ -33,5 +33,24 @@
 | 29 | Customers Who Bought All Products | ✅ Accepted |
 | 30 | The Number of Employees Which Report to Each Employee | ✅ Accepted |
 | 31 | Primary Department for Each Employee | ✅ Accepted |
+| 32 | Triangle Judgement | ✅ Accepted |
+| 33 | Consecutive Numbers | ✅ Accepted |
+| 34 | Product Price at a Given Date | ✅ Accepted |
+| 35 | Last Person to Fit in the Bus | ✅ Accepted |
+| 36 | Count Salary Categories | ✅ Accepted |
+| 37 | Employees Whose Manager Left the Company | ✅ Accepted |
+| 38 | Exchange Seats | ✅ Accepted |
+| 39 | Movie Rating | ✅ Accepted |
+| 40 | Restaurant Growth | ✅ Accepted |
+| 41 | Friend Requests II: Who Has the Most Friends | ✅ Accepted |
+| 42 | Investments in 2016 | ✅ Accepted |
+| 43 | Department Top Three Salaries | ✅ Accepted |
+| 44 | Fix Names in a Table | ✅ Accepted |
+| 45 | Patients With a Condition | ✅ Accepted |
+| 46 | Delete Duplicate Emails | ✅ Accepted |
+| 47 | Second Highest Salary | ✅ Accepted |
+| 48 | Group Sold Products By The Date | ✅ Accepted |
+| 49 | List the Products Ordered in a Period | ✅ Accepted |
+| 50 | Find Users With Valid E-Mails | ✅ Accepted |
 
-**Total Solved: 31 / 50**
+**Total Solved: 50 / 50** 🎉
